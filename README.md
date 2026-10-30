@@ -16,4 +16,4 @@ A robust and object-oriented C++ application designed for managing flight seats 
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Flight-Reservation-System.git](https://github.com/YOUR_USERNAME/Flight-Reservation-System.git)
+   git clone [https://github.com/GhaidaaIssa/Flight-Reservation-System.git](https://github.com/GhaidaaIssa/Flight-Reservation-System.git)
